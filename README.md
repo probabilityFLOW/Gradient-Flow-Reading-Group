@@ -14,4 +14,4 @@ Also here is a collection of [notes](https://shusheng3927.github.io/notes.html) 
 
 | Title | Date | Topic | Presenter |
 |-------|------|-------|-----------|
-|[Stein Variational Gradient Descent: A General Purpose Bayesian Inference Algorithm](https://arxiv.org/abs/1608.04471)| | 2024.09.19 | Stein | Rui |
+|[Stein Variational Gradient Descent: A General Purpose Bayesian Inference Algorithm](https://arxiv.org/abs/1608.04471)| 2024.09.19 | Stein | Rui |
