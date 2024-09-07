@@ -1,6 +1,6 @@
 # Gradient-Flow-Reading-Group
  
-This reading group focuses on the gradient flow and its application in machine learning tasks. Topics encompass but not be limited to: optimal transport,  information geometry, diffusion/flow-based model, variational inference, optimisation-centred sampling, etc..
+This reading group focuses on the gradient flow and its application in machine learning tasks. Topics encompass but not be limited to: optimal transport,  information geometry, diffusion/flow-based model, Stein's method, variational inference, optimisation-centred sampling, etc..
 
 Here are our main references:   
 [Statistical optimal transport](https://arxiv.org/abs/2407.18163) -  Sinho Chewi et al.     
