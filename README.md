@@ -10,6 +10,8 @@ Topics encompass but not be limited to:
 - variational inference
 - optimisation-centred sampling
 
+Overleaf notebook: https://www.overleaf.com/5955514736vkfyfjkwzstb#562087
+
 ## Table of Contents
 - [Supplementary References](#supplementary-references)
 - [Past Papers](#past-papers)
