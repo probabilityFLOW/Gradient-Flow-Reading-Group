@@ -28,7 +28,7 @@ Also here is a collection of [notes](https://shusheng3927.github.io/notes.html) 
 
 | Title | Date | Topic | Presenter | Discussant |
 |-------|------|-------|-----------|------------|
-|[On the geometry of Stein variational gradient descent](https://arxiv.org/abs/1912.00894)|  | Stein | Rui | Yakun |
+|[On the geometry of Stein variational gradient descent](https://arxiv.org/abs/1912.00894)| 2024.10.26 | Stein | Rui | Yakun |
 |[SVGD as a kernelized Wasserstein gradient flow of the chi-squared divergence](https://arxiv.org/abs/2006.02509)| 2024.10.05 | Stein | Yakun | Rui |
 |[Stein Variational Gradient Descent: A General Purpose Bayesian Inference Algorithm](https://arxiv.org/abs/1608.04471)| 2024.09.19 | Stein | Rui | Yakun |
 
